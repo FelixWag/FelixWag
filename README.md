@@ -1,4 +1,4 @@
-# Hi there, I'm Felix Wagner 👋
+# Hi there, I'm Felix 👋
 
 <p>
   <a href="https://felixwagner.net"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
