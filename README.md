@@ -47,13 +47,13 @@ Here are some of my recent publications. For a full list, please see my [Google 
 
     **Felix Wagner**, Wentian Xu, Pramit Saha, Ziyun Liang, Daniel Whitehouse, David Menon, Virginia Newcombe, Natalie Voets, J Alison Noble, Konstantinos Kamnitsas
   
-    Accepted for an **Oral Presentation at WACV 2025**
+    Accepted for an **Oral Presentation at WACV 2025** Code below 👇 - 📄 [Paper](https://arxiv.org/pdf/2406.11636)
   
-* **F^3OCUS - Federated Finetuning of Vision-Language Foundation Models...**
+* **F^3OCUS - Federated Finetuning of Vision-Language Foundation Models with Optimal Client Layer Updating Strategy via Multi-objective Meta-Heuristics**
 
     Pramit Saha, **Felix Wagner**, Divyanshu Mishra, Can Peng, Anshul Thakur, David Clifton, Konstantinos Kamnitsas, J Alison Noble
   
-    Accepted at **CVPR 2025 (Highlights)**
+    Accepted at **CVPR 2025 (Highlights)** 📄 [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Saha_F3OCUS_-_Federated_Finetuning_of_Vision-Language_Foundation_Models_with_Optimal_CVPR_2025_paper.pdf)
 
 ---
 
